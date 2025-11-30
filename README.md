@@ -93,14 +93,18 @@ It is designed to help HR teams identify attrition drivers and make data-backed 
  Relationships designed in a star schema for optimized performance
 
 ## How to Use
+ Extract file "HR Analysis Project"
 
- Open Finito.pbix using Power BI Desktop.
+ Open it using Power BI Desktop.
 
  Refresh the dataset if a data source is connected.
 
  Use slicers and filters to explore attrition patterns.
 
  Export visuals or insights for presentations or reports.
+
+ Read the documenation files of analysis questions, cleaning, and visualization
+ 
 
 ## Insights & Impact
 
