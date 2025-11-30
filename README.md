@@ -10,105 +10,105 @@ It is designed to help HR teams identify attrition drivers and make data-backed 
 ## Key Features
 1. Attrition KPIs
 
-Total Attrition: 237 leavers
+ Total Attrition: 237 leavers
 
-Attrition Rate: 16%
+ Attrition Rate: 16%
 
-Total Employees: 1470
+ Total Employees: 1470
 
-Active Employees: 1233
+ Active Employees: 1233
 
-Average Performance of Leavers: 3.47
+ Average Performance of Leavers: 3.47
 
-Attrition by Salary Tier: Shows distribution and risk across salary levels
+ Attrition by Salary Tier: Shows distribution and risk across salary levels
 
 2. Attrition by Department & Job Role
 
-Visual breakdown of departments with the highest turnover
+ Visual breakdown of departments with the highest turnover
 
-Helps identify which job roles experience the most attrition
+ Helps identify which job roles experience the most attrition
 
 3. Salary vs. Attrition
 
-Highlights correlation between salary tiers and employee exits
+ Highlights correlation between salary tiers and employee exits
 
-Useful for compensation strategy planning
+ Useful for compensation strategy planning
 
 4. Performance & Attrition
 
-Shows how performance ratings influence attrition patterns
+ Shows how performance ratings influence attrition patterns
 
-Determines if high performers are leaving
+ Determines if high performers are leaving
 
 5. Demographic Insights
 
-Breakdown by Age, Gender, Education, and Marital Status
+ Breakdown by Age, Gender, Education, and Marital Status
 
-Helps understand which groups are at higher risk
+ Helps understand which groups are at higher risk
 
 6. Interactive Filters
 
-Department
+ Department
 
-Education Level
+ Education Level
 
-Job Role
+ Job Role
 
-Salary Tier
+ Salary Tier
 
-Performance Rating
+ Performance Rating
 
-Age Group
+ Age Group
 
 ## Tools & Technologies
 
-Power BI Desktop
+ Power BI Desktop
 
-DAX (Data Analysis Expressions)
+ DAX (Data Analysis Expressions)
 
-Data Cleaning & Modeling inside Power BI
+ Data Cleaning & Modeling inside Power BI
 
-Power Query (M Language)
+ Power Query (M Language)
 
 ## Project Files
 
-HR Analysis project.pbix — Main Power BI dashboard file
+ HR Analysis project.pbix — Main Power BI dashboard file
 
-Supporting dataset (if applicable)
+ Supporting dataset (if applicable)
 
-Data Model Highlights
+ Data Model Highlights
 
-Fact table: Employee Records / Attrition Data
+ Fact table: Employee Records / Attrition Data
 
-Dimension tables for:
+ Dimension tables for:
 
-Departments
+ Departments
 
-Job Roles
+ Job Roles
 
-Demographics
+ Demographics
 
-Salary Bands
+ Salary Bands
 
-Relationships designed in a star schema for optimized performance
+ Relationships designed in a star schema for optimized performance
 
 ## How to Use
 
-Open Finito.pbix using Power BI Desktop.
+ Open Finito.pbix using Power BI Desktop.
 
-Refresh the dataset if a data source is connected.
+ Refresh the dataset if a data source is connected.
 
-Use slicers and filters to explore attrition patterns.
+ Use slicers and filters to explore attrition patterns.
 
-Export visuals or insights for presentations or reports.
+ Export visuals or insights for presentations or reports.
 
 ## Insights & Impact
 
-This dashboard helps HR decision makers:
+ This dashboard helps HR decision makers:
 
-Identify high-risk employee groups
+ Identify high-risk employee groups
 
-Detect patterns behind employee turnover
+ Detect patterns behind employee turnover
 
 Design better retention strategies
 
