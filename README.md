@@ -1,13 +1,13 @@
 # HR-Analysis-Project
 This Power BI dashboard analyzes HR attrition to help identify why employees leave the company. It visualizes key metrics like attrition rate, salary tiers, performance scores, and department-level turnover. With interactive filters, users can explore trends and quickly understand the main factors driving employee attrition.
 
-📌 Overview
+Overview
 
 This project presents an interactive HR Attrition Analysis Dashboard built using Power BI.
 The dashboard provides insights into employee turnover, workforce trends, performance patterns, and salary relationships.
 It is designed to help HR teams identify attrition drivers and make data-backed decisions for employee retention.
 
-🎯 Key Features
+## Key Features
 1. Attrition KPIs
 
 Total Attrition: 237 leavers
@@ -60,7 +60,7 @@ Performance Rating
 
 Age Group
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Power BI Desktop
 
@@ -70,13 +70,13 @@ Data Cleaning & Modeling inside Power BI
 
 Power Query (M Language)
 
-📁 Project Files
+## Project Files
 
-Finito.pbix — Main Power BI dashboard file
+HR Analysis project.pbix — Main Power BI dashboard file
 
 Supporting dataset (if applicable)
 
-📐 Data Model Highlights
+Data Model Highlights
 
 Fact table: Employee Records / Attrition Data
 
@@ -92,7 +92,7 @@ Salary Bands
 
 Relationships designed in a star schema for optimized performance
 
-🚀 How to Use
+## How to Use
 
 Open Finito.pbix using Power BI Desktop.
 
@@ -102,7 +102,7 @@ Use slicers and filters to explore attrition patterns.
 
 Export visuals or insights for presentations or reports.
 
-📈 Insights & Impact
+## Insights & Impact
 
 This dashboard helps HR decision makers:
 
@@ -111,5 +111,6 @@ Identify high-risk employee groups
 Detect patterns behind employee turnover
 
 Design better retention strategies
+
 
 Understand salary and performance effects on attrition
